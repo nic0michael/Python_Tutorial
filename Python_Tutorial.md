@@ -1,5 +1,3 @@
-Absolutely. I’ll keep this as a **short, practical guide for someone who already knows how to program**, rather than explaining programming concepts from scratch.
-
 # Python Tutorial by NMichael
 ## Table of contents
 1. **The Basics** — indentation, program structure, comments
