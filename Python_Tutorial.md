@@ -15,16 +15,19 @@ Absolutely. I’ll keep this as a **short, practical guide for someone who alrea
 11. **Modules and Packages** — imports, creating modules and package structure
 12. **Working with Files** — reading, writing and working with paths
 13. **Classes and Objects** — Python's approach to object-oriented programming
-14. **Inheritance and Polymorphism** — extending classes and using common interfaces
-15. **List Comprehensions** — concise Python collection processing
-16. **Iterators and Generators** — `iter`, `next`, `yield`
-17. **Decorators** — modifying function behaviour
-18. **Type Hints** — `str`, `int`, `list`, `Optional`, etc.
-19. **Virtual Environments and pip** — managing Python projects and dependencies
-20. **Testing** — introducing `pytest` and unit testing
-21. **Working with JSON** — exchanging structured data
-22. **Calling REST APIs** — using Python with web services
-23. **A Practical Python Program** — putting the concepts together
+14. **Iterators and Generators** — `iter`, `next`, `yield`
+
+**The following chapters will be added at a later phase of this project:**
+
+15. **Inheritance and Polymorphism** — extending classes and using common interfaces
+16. **List Comprehensions** — concise Python collection processing
+18. **Decorators** — modifying function behaviour
+19. **Type Hints** — `str`, `int`, `list`, `Optional`, etc.
+20. **Virtual Environments and pip** — managing Python projects and dependencies
+21. **Testing** — introducing `pytest` and unit testing
+22. **Working with JSON** — exchanging structured data
+23. **Calling REST APIs** — using Python with web services
+24. **A Practical Python Program** — putting the concepts together
 
 ## 1. The Basics
 
