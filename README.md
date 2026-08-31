@@ -3,5 +3,5 @@ This is intended to help Developers of other languages like Java get a quick sta
 
 We will be updating this from time to time
 
-**[Read our document here]()
+**[Read our document here](https://github.com/nic0michael/Python_Tutorial/blob/master/Python_Tutorial.md)**
 
